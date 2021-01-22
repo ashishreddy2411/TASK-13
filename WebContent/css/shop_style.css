@@ -1,0 +1,112 @@
+            .container {
+                height: 850px;
+                width: 900px;
+                margin:auto;
+            }
+            .headbanner {
+            	text-align:center;
+                float: left;
+                height: 80px;
+                width: 900px;
+                vertical-align:middle;
+                background-color:#FFCC00;
+
+
+            }
+            .container .headbanner h1 {
+                font-family: Verdana, Geneva, sans-serif;
+                color: #CC3300;
+
+            }
+            .container .headbanner h2 {
+                font-family: Verdana, Geneva, sans-serif;
+                color: #CC3300;
+
+            }
+            .mycontent {
+                float: left;
+                height: 650px;
+                width: 900px;
+            }
+/*             .myfooter { */
+/*             position:absolute; */
+/*             margin-bottom:-10px; */
+/*                 float: left; */
+/*                 height: 100px; */
+/*                 width: 900px; */
+/*                 border-top-width:3px; */
+/*                 border-top-style:solid; */
+/*                 border-top-color:#FFCC00; */
+/*             } */
+/*             .container .myfooter h3 { */
+/*                 font-family: Verdana, Geneva, sans-serif; */
+/*                 font-size: 12px; */
+/*                 color:#CC3300; */
+/*             } */
+            .cartof {
+                float: left;
+                height: 25px;
+                width: 900px;
+                font-family: Verdana, Geneva, sans-serif;
+                font-weight: bold;
+                padding-top:5px;
+            }
+            .cartcontent {
+                float: left;
+                height: 200px;
+                width: 900px;
+                background-color:#FFFFC2;
+                border-width:1px;
+                border-style:solid;
+                border-color:#FFCC00;
+            }
+            .prod1 {
+                float: left;
+                height: 100px;
+                width: 900px;
+                border-bottom-width:1px;
+                border-bottom-style:solid;
+                border-bottom-color:#FFCC00;
+            }
+            td{
+                padding-left:5px;
+                color:#900;
+                font-family:Verdana, Geneva, sans-serif;
+
+            }
+            .items {
+                float: left;
+                height: auto;
+                width: 900px;
+            }
+            tr.border_bottom td {
+                border-bottom-width:1px;
+                border-bottom-style:solid;
+                border-bottom-color:#FFCC00;
+                height:100px;
+            }
+            .myitems {
+                float: left;
+                height: 200px;
+                width: 600px;
+                border-right-width:1px;
+                border-right-style:solid;
+                border-right-color:#FFCC00;
+                overflow: auto;
+            }
+            th{
+                color:#FFF;
+                font-family:Verdana, Geneva, sans-serif;
+                font-weight:normal;
+                background-color:#900;
+            }
+            .total {
+                float: left;
+                height: 180px;
+                width: 285px;
+                font-family: Verdana, Geneva, sans-serif;
+                font-size: 24px;
+                font-weight: bold;
+                padding-top:20px;
+                padding-left:10px;
+            }
